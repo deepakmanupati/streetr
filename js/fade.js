@@ -1,0 +1,1 @@
+$("#hideall").css("opacity","1"),$(document).ready(function(){setTimeout(function(){$("#hideall").css("opacity","0"),$(window).scrollTop(0)},1e3),setTimeout(function(){$("#hideall").css("display","none")},1500)});
